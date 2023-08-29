@@ -1,6 +1,6 @@
 {
   "name": "iotransit-wb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "IoTransit WebSocket Bridge api module",
   "main": "index.js",
   "directories": {
